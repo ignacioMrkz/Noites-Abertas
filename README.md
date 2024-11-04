@@ -64,7 +64,7 @@ A modern web and mobile application for "Noites Abertas," a leisure program desi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/noites-abertas.git
+   git clone https://github.com/ignacioMrkz/noites-abertas.git
    cd noites-abertas
    ```
 
